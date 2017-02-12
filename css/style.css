@@ -1,0 +1,21 @@
+#mainWrapper {
+    width: 300px;
+    height: auto;
+}
+
+.cookieErrors {
+    min-height: 20px;
+}
+
+.errors {
+    color: red;
+}
+
+#information {
+    min-height: 30px;
+    color: darkolivegreen;
+}
+
+#helpText {
+    display: none;
+}
